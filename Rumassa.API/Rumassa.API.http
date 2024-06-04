@@ -1,0 +1,6 @@
+@Rumassa.API_HostAddress = http://localhost:5260
+
+GET {{Rumassa.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
